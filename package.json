@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/verdickta/StorybookArgsToJsonConverter.git"
   },
-  "author": "Alexander Verdickt <verdickta@delawareconsulting.com>",
+  "author": "verdickta <verdickta@delawareconsulting.com>",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
