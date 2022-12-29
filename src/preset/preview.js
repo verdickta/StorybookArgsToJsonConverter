@@ -9,10 +9,7 @@
  * https://storybook.js.org/docs/react/writing-stories/decorators#gatsby-focus-wrapper
  */
 import { withGlobals } from "../withGlobals";
-import { withRoundTrip } from "../withRoundTrip";
-
-export const decorators = [withGlobals, withRoundTrip];
-
+export const decorators = [withGlobals];
 export const globalTypes = {
   theme: {
     name: "Theme",
@@ -21,10 +18,26 @@ export const globalTypes = {
       icon: "circlehollow",
       title: "Theme",
       items: [
-        { value: "light", icon: "circlehollow", title: "light" },
-        { value: "dark", icon: "circle", title: "dark" },
-        { value: "side-by-side", icon: "sidebar", title: "side by side" },
-        { value: "stacked", icon: "bottombar", title: "stacked" },
+        {
+          value: "light",
+          icon: "circlehollow",
+          title: "light",
+        },
+        {
+          value: "dark",
+          icon: "circle",
+          title: "dark",
+        },
+        {
+          value: "side-by-side",
+          icon: "sidebar",
+          title: "side by side",
+        },
+        {
+          value: "stacked",
+          icon: "bottombar",
+          title: "stacked",
+        },
       ],
     },
   },
