@@ -1,3 +1,19 @@
+# v0.0.8 (Mon Jan 02 2023)
+
+#### ⚠️ Pushed to `main`
+
+- package update (alexander.verdickt@delaware.pro)
+- commit (alexander.verdickt@delaware.pro)
+- project setup (alexander.verdickt@delaware.pro)
+- Initial commit ([@verdickta](https://github.com/verdickta))
+
+#### Authors: 2
+
+- [@verdickta](https://github.com/verdickta)
+- Alexander Verdickt (alexander.verdickt@delaware.pro)
+
+---
+
 # v0.0.7 (Mon Jan 02 2023)
 
 #### ⚠️ Pushed to `main`
