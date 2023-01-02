@@ -1,6 +1,6 @@
 {
   "name": "args-to-json-converter",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Convert Storybook arguments to Json",
   "keywords": [
     "storybook-addons",
